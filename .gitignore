@@ -1,0 +1,5 @@
+.ipynb_checkpoints
+.virtualenvs
+*training_output
+*test_output
+opencv
