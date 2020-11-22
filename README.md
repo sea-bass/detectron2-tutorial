@@ -1,7 +1,7 @@
 # Detectron2 Tutorial
 A brief introductory tutorial to the [Detectron2](https://github.com/facebookresearch/detectron2) library.
 
-For more information, refer to the [blog post](TBD).
+For more information, refer to the [blog post](TBD) -- LINK TBD.
 
 By Sebastian Castro, 2020
 
@@ -39,6 +39,6 @@ This repository includes a small dataset so you can try Detectron2 without havin
 
 Once your environment is set up, you can follow along the notebooks in this repository.
 
-* [`detectron_pretrained.ipynb`](detection2_pretrained.ipynb) shows how to use pretrained models from the Detectron2 Model Zoo.
+* [`detectron_pretrained.ipynb`](detectron2_pretrained.ipynb) shows how to use pretrained models from the Detectron2 Model Zoo.
 * [`detection_tutorial.ipynb`](detectron2_tutorial.ipynb) shows how to train a model on a custom dataset by starting from one of the pretrained models above.
 
