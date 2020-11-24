@@ -11,7 +11,7 @@ By Sebastian Castro, 2020
 
 First, you will need a Linux or macOS environment set up with Python 3.6 or higher.
 
-* Create a fresh virtual environment, e.g., `python3 -m venv .virtualenvs/detectron2`
+* Create a new Python virtual environment, e.g., `python3 -m venv .virtualenvs/detectron2`
 * Activate the virtual environment, e.g., `source .virtualenvs/detectron2/bin/activate`
 * `pip install wheel`
 * `pip install jupyter torch torchvision`
@@ -31,7 +31,7 @@ https://docs.opencv.org/master/d2/de6/tutorial_py_setup_in_ubuntu.html
 
 We have used [coco-annotator](https://github.com/jsbroks/coco-annotator) to manually label our data and export it to the popular COCO data format.
 
-This repository includes a small dataset so you can try Detectron2 without having to collect and label your own data.
+This repository includes a small dataset in the `data` folder so you can try Detectron2 without having to collect and label your own data.
 
 ---
 
@@ -40,5 +40,5 @@ This repository includes a small dataset so you can try Detectron2 without havin
 Once your environment is set up, you can follow along the notebooks in this repository.
 
 * [`detectron_pretrained.ipynb`](detectron2_pretrained.ipynb) shows how to use pretrained models from the Detectron2 Model Zoo.
-* [`detection_tutorial.ipynb`](detectron2_tutorial.ipynb) shows how to train a model on a custom dataset by starting from one of the pretrained models above.
+* [`detectron_tutorial.ipynb`](detectron2_tutorial.ipynb) shows how to train a model on a custom dataset by starting from one of the pretrained models above.
 

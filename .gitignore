@@ -1,3 +1,4 @@
+# Folders to ignore
 .ipynb_checkpoints
 .virtualenvs
 *training_output
