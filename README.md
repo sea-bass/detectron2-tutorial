@@ -1,7 +1,7 @@
 # Detectron2 Tutorial
 A brief introductory tutorial to the [Detectron2](https://github.com/facebookresearch/detectron2) library.
 
-For more information, refer to the [blog post](TBD) -- LINK TBD.
+For more information, refer to the [blog post](https://roboticseabass.wordpress.com/2020/11/22/object-detection-and-instance-segmentation-with-detectron2/)
 
 By Sebastian Castro, 2020
 
@@ -16,7 +16,7 @@ First, you will need a Linux or macOS environment set up with Python 3.6 or high
 * `pip install wheel`
 * `pip install jupyter torch torchvision`
 
-* Install Detectron2 as outlined in [the Detectron2 install guide](https://github.com/facebookresearch/detectron2/blob/master/INSTALL.md). For Torch 1.7 / CUDA 11.0 (which is what I have used for developing this tutorial)
+* Install Detectron2 as outlined in [the Detectron2 install guide](https://github.com/facebookresearch/detectron2/blob/master/INSTALL.md). For Torch 1.7 / CUDA 11.0 (which is what was used for developing this tutorial), the command is:
 ```
 python -m pip install detectron2 -f \
   https://dl.fbaipublicfiles.com/detectron2/wheels/cu110/torch1.7/index.html
