@@ -1,7 +1,7 @@
 # Detectron2 Tutorial
 A brief introductory tutorial to the [Detectron2](https://github.com/facebookresearch/detectron2) library.
 
-For more information, refer to the [blog post](https://roboticseabass.wordpress.com/2020/11/22/object-detection-and-instance-segmentation-with-detectron2/)
+For more information, refer to the [blog post](https://roboticseabass.com/2020/11/22/object-detection-and-instance-segmentation-with-detectron2/)
 
 By Sebastian Castro, 2020
 
